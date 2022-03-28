@@ -1,3 +1,3 @@
 So, I'm going to go over to my web browser, and I already have a tab setup on the hipster ipsum website. The defaults are fine, and "Beer me!', is just the hipster ipsum's cute way of saying just give me some text. Great, so now I'm going to just select the first paragraph, copy it, and now I'm just going to go over to NotePad++, and paste it in. Now it's time to save, which is control+s, and close without quitting,
 which is control+w. Now I'm going to return to my terminal, so if I do an "ls", you can see the "hipster.txt" is in our folder. So let's see what Git thinks of this file.
-asddddddddd
+asdddddddddasdasd
